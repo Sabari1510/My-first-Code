@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
-main()
+
+void main()
 {
 char choice;
 int num1, num2, result = 0;
@@ -52,6 +52,5 @@ default:
    printf("\nEnter Valid Operator!!!\n");
    printf("\n\nPress Enter Again for New Input\n");
 }
-getch();
 }
 }
